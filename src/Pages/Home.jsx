@@ -5,8 +5,8 @@ const Home = () => {
   <>
   
   <h1>branch testingggg siddhartha</h1>
-  <p>this is Rumeshujhg and chandu </p>
-
+  <p>this is siddhartha</p>
+  <h6>chandu bhai namasthe</h6>
   </>
   )
 }
